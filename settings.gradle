@@ -1,0 +1,2 @@
+include ':app', ':JAVA'
+rootProject.name='JAVAHW19'
